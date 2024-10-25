@@ -1,0 +1,17 @@
+{
+  "name": "notion-env-app",
+  "version": "1.0.0",
+  "description": "A simple app to create a central environment, cross-platform for notion applications",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "notion"
+  ],
+  "author": "Guto Reis de Lima",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^33.0.2"
+  }
+}
